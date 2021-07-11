@@ -1,0 +1,3 @@
+export const TRANSITION_ANIMATION_DURATION = 200;
+export const TRANSITION_ANIMATION_CONFIG = {damping: 20, stiffness: 300};
+export const SCALE_ANIMATION_DURATION = 100;
